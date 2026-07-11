@@ -13,6 +13,21 @@ All versions: https://github.com/chethanjsgit/kodi-handoff-edition/releases
 
 ---
 
+## Before you start — create a free OpenSubtitles.com account
+
+Subtitles are downloaded from OpenSubtitles.com, and you need a (free) account
+for it to work. Do this first, on your phone or computer:
+
+1. Go to **https://www.opensubtitles.com** and click **Register / Sign up**.
+2. Pick a **username** and **password**, and confirm your email.
+3. Remember that username and password — you'll type them into Kodi in Step 5.
+
+**Important:** OpenSubtitles.com and the older OpenSubtitles.**org** are two
+different websites with separate accounts. Make sure you register at
+OpenSubtitles.**com** — a .org account will not work here.
+
+---
+
 ## Install — just follow these steps in order
 
 You'll do this once. Take about 5 minutes.
@@ -59,11 +74,10 @@ If you've never had Kodi, skip this step.
 ### Step 5 — Open Kodi and sign in to subtitles (once)
 
 1. Open **Kodi** (it may say "Preparing for first run" — wait a moment).
-2. It will ask for your **OpenSubtitles.com username**, then **password**.
-   Type them in.
-   - Don't have an account? It's free — sign up at **opensubtitles.com** first
-     (an OpenSubtitles.com account is what lets subtitles download).
-   - Want to skip for now? Press **Back** on each prompt. You can add it later.
+2. It will ask for your **OpenSubtitles.com username**, then **password** —
+   type in the ones you created in the "Before you start" step above.
+   - Want to do it later? Press **Back** on each prompt; you can add it anytime
+     (see "If something's not working" below).
 3. That's the only setup. It won't ask again.
 
 ### Step 6 — Tell your IPTV app to use Kodi
