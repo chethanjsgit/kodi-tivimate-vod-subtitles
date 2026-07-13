@@ -1,14 +1,15 @@
-# Kodi Handoff Edition 3.1
+# Kodi Handoff Edition 3.2
 
 Play a movie or show from your IPTV app (like TiviMate) and it opens in Kodi
 with the **correct title**, **subtitles that download automatically and are
 remembered**, and it **resumes from where you left off**. Everything is in one
 app — you don't install any add-ons.
 
-Subtitles come from **OpenSubtitles.com** first, and if it doesn't have a
-match, the app automatically falls back to **SubtitleCat** (no login, no daily
-limit) — which is great for shows with long, messy release names. You don't
-have to do anything; it just finds one and turns it on.
+Subtitles are found automatically across several sources, in order:
+**OpenSubtitles.com** first, then **OpenSubtitles.org** (great for brand-new
+shows the .com site doesn't have yet), then **SubtitleCat** — none needing a
+login for the fallbacks. You don't have to do anything; it finds one and turns
+it on. This is especially handy for shows with long, messy IPTV release names.
 
 Works on **Fire TV Stick** and most **Android TV / Google TV** devices.
 
