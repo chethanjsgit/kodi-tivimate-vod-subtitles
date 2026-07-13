@@ -189,6 +189,5 @@ pressure. Just using it is already a win. 🙂
 ---
 
 *Built from official Kodi 21.3 "Omega" (open source) with the handoff features
-added. App id `org.xbmc.kodi`, signed by ikeamrf (). Because
-it's installed outside the app store, it won't auto-update — get new versions
-from the releases link above.*
+added. App id `org.xbmc.kodi`. Because it's installed outside the app store, it
+won't auto-update — get new versions from the releases link above.*
