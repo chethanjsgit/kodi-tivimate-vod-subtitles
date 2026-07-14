@@ -160,7 +160,7 @@ over the old one and keeps your settings and history.
 
 ---
 
-## Donate (optional, no hard feelings)
+## Donate (optional)
 
 ```
         _______________
@@ -181,7 +181,8 @@ If it spared you the usual streaming rituals — hunting for a subtitle that
 actually syncs, or scrubbing back through half an episode because the player
 forgot where you were — and you feel like sending a few bucks its way:
 
-**Venmo → [@Chethanjs](https://venmo.com/u/Chethanjs)**
+- **Venmo → [@Chethanjs](https://venmo.com/u/Chethanjs)**
+- **PayPal → [paypal.me/chethanjs](https://paypal.me/chethanjs)**
 
 Donate the price of a coffee, a taco, or nothing at all — genuinely no
 pressure. Just using it is already a win. 🙂
